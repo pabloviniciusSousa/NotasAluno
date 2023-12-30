@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notas Aluno</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">nota 2</string>
+    <string name="nota_3">nota 3</string>
+    <string name="calcula_m_dia_de_alunos">Calcula média de Alunos</string>
+    <string name="nota_4">nota 4</string>
+    <string name="resultado">Resultado</string>
+</resources>
